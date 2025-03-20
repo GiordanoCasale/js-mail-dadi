@@ -25,15 +25,6 @@ else{
 const user= Math.floor((Math.random() * 6) + 1);
 const pc= Math.floor((Math.random() * 6) + 1);
 //andiamo a mettere le condizioni del risultato con if
-if(user>pc){
-    console.log("Vince User")
-}
 
-else(user<pc){
-    console.log("Vince Pc")
-}
-
-else if(user==pc){
-    console.log("Pareggio")
 }
 
